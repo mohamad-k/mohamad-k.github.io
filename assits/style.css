@@ -91,10 +91,10 @@ body{
     visibility: hidden ;
     position: absolute;
     top: 35%;
-    right: 12%;
+    right: 9%;
     display: flex;
     flex-wrap: wrap;
-    width: 32%;
+    width: 20%;
     
 }
 .bar2 {
